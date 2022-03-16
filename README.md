@@ -1,10 +1,10 @@
-# Dylan's Personal Website
+# Dylan's Website - a responsive and dynamic personal portfolio website project
 
 ## About
- * Responsive and dynamic portfolio website project
-    * created from the ground up
-    * custom domain
-    * TSL/SSL certified security
+  * created and designed from the ground up
+  * custom domain
+  * TSL/SSL certified security
+  * Coding Languages & Frameworks:
     * HTML5
     * CSS
     * React.js: for my front-end, UI graphic components
@@ -13,7 +13,9 @@
 
 ## Features
 
+
 ## Challenges
+
 
 ## What's next?
  
