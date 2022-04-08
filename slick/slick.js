@@ -9,6 +9,13 @@
  Version: 1.8.0
 
 /* global window, document, define, jQuery, setInterval, clearInterval */
+
+
+  
+  
+  
+  
+  Resources
 ;(function(factory) {
     'use strict';
     if (typeof define === 'function' && define.amd) {

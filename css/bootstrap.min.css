@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
  
+ 
  :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -522,6 +523,27 @@ pre code {
     margin-right: auto;
     margin-left:auto
 }
+/* GLOBAL STYLES */
+
+/*type writer animation */
+body {
+    background: #333;
+    padding-top: 5em;
+    display: flex;
+    justify-content: center;
+  }
+  
+  span {
+    border-right: .05em solid;
+    animation: caret 1s steps(1) infinite;
+  }
+  
+  @keyframes caret {
+    50% {
+      border-color: transparent;
+    }
+  }
+
 
 @media (min-width: 576px) {
     .container {
