@@ -43,7 +43,6 @@ $(document).ready(function() {
     // start the text animation
     StartTextAnimation(0);
   });
-
   
   // Single Page Nav for highlighting navigation texts
   $("#tmMainNav").singlePageNav();
