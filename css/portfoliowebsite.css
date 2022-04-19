@@ -1,6 +1,63 @@
 /* CSS Template - Basic Portfolio Style */
 
 
+/* Scroll trigger animation */
+@import url("https://fonts.googleapis.com/css?family=Signika+Negative:300,400&display=swap");
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  position: relative;
+  letter-spacing: 0.04em;
+}
+body {
+  font-family: "Signika Negative", sans-serif;
+  font-weight: 400;
+}
+.section {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  padding: 0;
+  text-align: center;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg1 {
+  background-color: #ccc;
+}
+.bg2 {
+  background-color: #333;
+}
+h1 {
+  font-size: 40px;
+  line-height: 1.2;
+  margin: 0;
+}
+.revealUp {
+  opacity: 0;
+  visibility: hidden;
+}
+.spacer {
+  height: 50vh;
+  background-color: #000;
+}
+
+.reveal{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 2s all ease;
+}
+.reveal.active{
+  transform: translateY(0);
+  opacity: 1;
+}
+
+
+
 body {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
   font-size: 18px;

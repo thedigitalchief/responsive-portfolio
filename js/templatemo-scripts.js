@@ -128,4 +128,71 @@ $(document).ready(function() {
   $("#tmMainNav .nav-link").click(function(e) {
     $(".tm-sidebar").removeClass("show");
   });
+
+  gsap.registerPlugin(ScrollTrigger);
+  // REVEAL //
+  gsap.utils.toArray(".revealUp").forEach(function (elem) {
+    ScrollTrigger.create({
+      trigger: elem,
+      start: "top 80%",
+      end: "bottom 20%",
+      markers: true,
+      onEnter: function () {
+        gsap.fromTo(
+          elem,
+          { y: 100, autoAlpha: 0 },
+          {
+            duration: 1.25,
+            y: 0,
+            autoAlpha: 1,
+            ease: "back",
+            overwrite: "auto"
+          }
+        );
+      },
+      onLeave: function () {
+        gsap.fromTo(elem, { autoAlpha: 1 }, { autoAlpha: 0, overwrite: "auto" });
+      },
+      onEnterBack: function () {
+        gsap.fromTo(
+          elem,
+          { y: -100, autoAlpha: 0 },
+          {
+            duration: 1.25,
+            y: 0,
+            autoAlpha: 1,
+            ease: "back",
+            overwrite: "auto"
+          }
+        );
+      },
+      onLeaveBack: function () {
+        gsap.fromTo(elem, { autoAlpha: 1 }, { autoAlpha: 0, overwrite: "auto" });
+      }
+    });
+
+  });
+  
+  function reveal() {
+    var reveals = document.querySelectorAll(".reveal");
+    for (var i = 0; i < reveals.length; i++) {
+      var windowHeight = window.innerHeight;
+      var elementTop = reveals[i].getBoundingClientRect().top;
+      var elementVisible = 150;
+      if (elementTop < windowHeight - elementVisible) {
+        reveals[i].classList.add("active");
+      } else {
+        reveals[i].classList.remove("active");
+      }
+    }
+  }
+
+  window.addEventListener("scroll", reveal);
+
+// To check the scroll position on page load
+  reveal();
+
+  
+
+
 });
