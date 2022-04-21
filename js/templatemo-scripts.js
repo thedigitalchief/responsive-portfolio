@@ -1,7 +1,3 @@
-
-
-
-
 $(document).ready(function() {
   // Single Page Nav for highlighting nav items
   $("#tmMainNav").singlePageNav();
