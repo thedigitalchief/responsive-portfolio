@@ -1,4 +1,7 @@
 
+
+
+
 $(document).ready(function() {
   // Single Page Nav for highlighting nav items
   $("#tmMainNav").singlePageNav();
@@ -83,4 +86,6 @@ $(document).ready(function() {
   $("#tmMainNav .nav-link").click(function(e) {
     $(".tm-sidebar").removeClass("show");
   });
+
+
 });

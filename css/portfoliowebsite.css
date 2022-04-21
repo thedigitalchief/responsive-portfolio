@@ -979,7 +979,7 @@ h2 {
   content: none;
 }
 
-@media (max-width: 786px) {
+@media (max-width: 950px) {
   .timeline__event {
     flex-direction: column;
     align-self: center;
