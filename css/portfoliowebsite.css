@@ -405,6 +405,10 @@ h3.profile-title {
 }
 
 
+/* 
+  Gallery Item Hover Effect
+  https://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/
+*/
 
 /* Common style */
 .tm-gallery-item figure {
@@ -453,7 +457,6 @@ h3.profile-title {
 
 /* Anchor will cover the whole item by default */
 /* For some effects it will show as a button */
-
 .tm-gallery-item figure figcaption > a {
   z-index: 1000;
   text-indent: 200%;
@@ -481,8 +484,9 @@ h3.profile-title {
   font-size: 68.5%;
 }
 
-
-/*-------Bubba Framework--------*/
+/*---------------*/
+/***** Bubba *****/
+/*---------------*/
 
 figure.effect-bubba {
   background: #069;

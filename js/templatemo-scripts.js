@@ -1,10 +1,9 @@
 
 $(document).ready(function() {
-
-  // Single Page Nav for highlighting navigation texts
+  // Single Page Nav for highlighting nav items
   $("#tmMainNav").singlePageNav();
 
-  // Carousel in Projects section
+  // Carousel in Our Work section
   $(".tm-gallery").slick({
     dots: true,
     infinite: false,
@@ -55,13 +54,12 @@ $(document).ready(function() {
           slidesToScroll: 1
         }
       }
-      //  can unslick at a given breakpoint now by adding:
+      // You can unslick at a given breakpoint now by adding:
       // settings: "unslick"
       // instead of a settings object
     ]
   });
 
-  
   // Image Pop Up
   $(".tm-gallery").magnificPopup({
     delegate: "a", // child items selector, by clicking on it popup will open
