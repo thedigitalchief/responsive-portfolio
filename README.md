@@ -1,6 +1,6 @@
 # Dylan Nguyen's Website - a beautiful and fully responsive personal portfolio website
 
-<div id="header" align="center">
+<div id="header" align="left">
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/dylanhnguyen/">
@@ -14,6 +14,7 @@
     </a>
   </div>
   
+  </br>
   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
  
  <br>
@@ -29,7 +30,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"
 </div>
 
-  
+  <p></p>
   </br>
   
   <div align="left">
