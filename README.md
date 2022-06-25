@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
  
  <br>
-  
+ ---
   <h1>Technologies & Tools: </h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -33,6 +33,7 @@
   <p></p>
   </br>
   
+   ---
   <div align="left">
 <h1> About </h1>
   * My personal portofolio website developed from the ground up with responsive and fluidity UI/UX in mind
