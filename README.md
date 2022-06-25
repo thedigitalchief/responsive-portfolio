@@ -1,6 +1,8 @@
 # Dylan Nguyen's Portfolio - a fully responsive & fluid website
 
 <div id="header" align="left">
+   <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
+  <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/dylanhnguyen/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,10 +13,7 @@
      <a href="https://www.facebook.com/dylannguyenn/">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-  </div>
-  
-  </br>
-  <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
+      </div>
  <br>
  
  
