@@ -1,7 +1,6 @@
-# Dylan Nguyen's Website - a beautiful and fully responsive personal portfolio website
+# Dylan Nguyen's Portfolio - a fully responsive & fluid website
 
 <div id="header" align="left">
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/dylanhnguyen/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -34,8 +33,8 @@
   </br>
   
   
-  
  ---
+ 
   <div align="left"><h1> About </h1>
   * My personal portofolio website developed from the ground up with responsive and fluidity UI/UX in mind
   * Fully adaptive to all environements, but excels specifically mobile 
@@ -44,6 +43,7 @@
   </br>
 
 ---
+
  <div align="left"> <h1>What's next? </h1>
   <p>VSCO-like photo gallery showcasing my creativity, travel adventures, and the surfer side of me. </p>
   
@@ -52,9 +52,13 @@
  
  
  ---
+ 
  <div align="left"> <h1> License </h1>
   <p>Copyright (©) 2022. Dylan Hoang Nguyen, thedigitalchief, and subsidaries. -   BSD-3-Clause License
   All rights reserved. This is not Open Source nor free.My source code may not be reproduce, distribute, or created with derivative works from your work. Failure to comply provides jurisdiction to pursue legal action.  
-  </p>
+  </p></div>
   
-  </div>
+  ---
+
+### My Github Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedigitalchief&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
