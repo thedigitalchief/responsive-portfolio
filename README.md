@@ -1,4 +1,4 @@
-# Dylan's Website - a responsive and dynamic personal portfolio website project
+# Dylan Nguyen's Website - a beautiful and fully responsive personal portfolio website
 
 ## About
   * My personal portofolio website developed from the ground up with responsive and fluidity UI/UX in mind
