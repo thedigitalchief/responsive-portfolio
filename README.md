@@ -32,22 +32,24 @@
   </br>
 
  <h1 align="left"> About </h1>
-   <p>My personal portofolio website developed soley by me from the ground up </p>
-   <p>Features a beautiful responsive and fluid single page design </p>
-   <p>User focused UI/UX design elements </p>
-   <p>Fully adaptive to all environements, but excels specifically on mobile platforms </p>
-   <p>TSL/SSL certified encryption security for good measure </p>
+   <p>• My personal portofolio website developed soley by me from the ground up </p>
+   <p>• Features a beautiful responsive and fluid single page design </p>
+   <p>• User focused UI/UX design elements </p>
+   <p>• Fully adaptive to all environements, but excels specifically on mobile platforms </p>
+   <p>• TSL/SSL certified encryption security for good measure </p>
   </br>
 
 
  <div align="left"> <h1>What's next? </h1>
-  <p>VSCO-like photo gallery showcasing my creativity, travel adventures, and the surfer side of me. </p>
+  <p>• VSCO-like photo gallery showcasing my creativity, travel adventures, and the surfer side of me. </p>
   </br>
   
  
- <div align="left"> <h1> License </h1>
-  <p>Copyright (©) 2022. Dylan Hoang Nguyen, thedigitalchief, and subsidaries. -   BSD-3-Clause License
-  All rights reserved. This is not Open Source nor free.My source code may not be reproduce, distribute, or created with derivative works from your work. Failure to comply provides jurisdiction to pursue legal action.  </p>
+<div align="left"> <h1> License </h1>
+  <p>I. Copyright (©) 2022. Dylan Hoang Nguyen, thedigitalchief, and subsidaries. All rights reserved.
+  <p>II. BSD-3-Clause License</p>
+  <p>III. This is not Open Source nor free. My source code may not be reproduce, distribute, or created with derivative works from your work. 
+  <p>IV. Failure to comply provides causation and jurisdiction to pursue legal action. </p>
 </div>
           
 
