@@ -31,12 +31,12 @@
   <p></p>
   </br>
 
-  <div align="left"><h1> About </h1>
-  * My personal portofolio website developed soley by me from the ground up 
-  * Features a beautiful responsive and fluid single page design
-  * User focused UI/UX design elements
-  * Fully adaptive to all environements, but excels specifically on mobile platforms
-  * TSL/SSL certified encryption security for good measure
+ <h1 align="left"> About </h1>
+   <p>My personal portofolio website developed soley by me from the ground up </p>
+   <p>Features a beautiful responsive and fluid single page design </p>
+   <p>User focused UI/UX design elements </p>
+   <p>Fully adaptive to all environements, but excels specifically on mobile platforms </p>
+   <p>TSL/SSL certified encryption security for good measure </p>
   </br>
 
 
