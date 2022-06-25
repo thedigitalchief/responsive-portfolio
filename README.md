@@ -33,16 +33,18 @@
   </br>
 
   <div align="left"><h1> About </h1>
-  * My personal portofolio website developed from the ground up with responsive and fluidity UI/UX in mind
-  * Fully adaptive to all environements, but excels specifically mobile 
-  * TSL/SSL certified encryption security
-  
+  * My personal portofolio website developed soley by me from the ground up 
+  * Features a beautiful responsive and fluid single page design
+  * User focused UI/UX design elements
+  * Fully adaptive to all environements, but excels specifically on mobile platforms
+  * TSL/SSL certified encryption security for good measure
   </br>
+
 
  <div align="left"> <h1>What's next? </h1>
   <p>VSCO-like photo gallery showcasing my creativity, travel adventures, and the surfer side of me. </p>
-  
   </br>
+  
  
  <div align="left"> <h1> License </h1>
   <p>Copyright (©) 2022. Dylan Hoang Nguyen, thedigitalchief, and subsidaries. -   BSD-3-Clause License
