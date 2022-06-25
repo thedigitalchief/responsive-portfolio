@@ -52,6 +52,3 @@
   <p>IV. Failure to comply provides causation and jurisdiction to pursue legal action. </p>
 </div>
           
-
-<h1> My Github Stats </h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedigitalchief&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
