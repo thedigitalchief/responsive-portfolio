@@ -48,7 +48,6 @@
 <div align="left"> <h1> License </h1>
   <p>I. Copyright (©) 2022. Dylan Hoang Nguyen, thedigitalchief, and subsidaries. All rights reserved.
   <p>II. BSD-3-Clause License</p>
-  <p>III. This is not Open Source nor free. My source code may not be reproduce, distribute, or created with derivative works from your work. 
-  <p>IV. Failure to comply provides causation and jurisdiction to pursue legal action. </p>
+  <p>III. This is not open source nor free to use. May not be reproduce, distribute, or used with derivative works from your work. 
 </div>
           
