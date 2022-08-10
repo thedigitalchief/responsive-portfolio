@@ -1,9 +1,7 @@
-# Dylan Nguyen's Portfolio - a fully responsive & fluid website
+# Dylan Nguyen's Website - a fully responsive & adaptive portfolio
 
 <div id="header" align="left">
    <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/>
-  <br>
-   
   <!-- PROJECT SHIELDS -->
 <a href="https://www.linkedin.com/in/dylanhnguyen/">
   <img align="center" alt="Dylan's Linkedin" width="104px" height = "104px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -30,7 +28,6 @@
 
 </p>
 
-
   </br>
 
  <h1 align="left"> About </h1>
@@ -42,10 +39,6 @@
   </br>
 
 
- <div align="left"> <h1>What's next? </h1>
-  <p>• VSCO-like photo gallery showcasing my creativity, travel adventures, and the surfer side of me. </p>
-  </br>
-  
  
 <div align="left"> <h1> License </h1>
   <p>I. Copyright (©) 2022. Dylan Hoang Nguyen, thedigitalchief, and subsidaries. All rights reserved.
