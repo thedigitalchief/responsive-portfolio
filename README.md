@@ -1,4 +1,4 @@
-# Dylan Nguyen's Website - a fully responsive & adaptive portfolio
+# Dylan Nguyen's Website - a beauitfully modern but fully responsive website portfolio
 <div id="header" align="left">
    <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/><br>
 <a href="https://www.linkedin.com/in/dylanhnguyen/">
@@ -8,7 +8,7 @@
   <img align="center" alt="Dylan's Github" width="92px" height = "92px"src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
 </div>
 
-## Languages, Frameworks & Technologies
+# Tech Stack
 <p float="left">
 
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,17 +22,17 @@
  <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/> 
 <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 ![alttext](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 </p>
-
-  </br>
 
  <h1 align="left"> About </h1>
    <p>• My personal portofolio website developed soley by me from the ground up </p>
    <p>• Features a beautiful responsive and fluid single page design </p>
    <p>• User focused UI/UX design elements </p>
-   <p>• Fully adaptive to all environements, but excels specifically on mobile platforms </p>
-   <p>• TSL/SSL certified encryption security for good measure </p>
+   <p>• Fully adaptive to all different environment, but excels specifically on mobile platforms </p>
+   <p>• TSL/SSL certified encryption security </p
+   <p>• HTTP reuqests and CDN minimization for quicker load times </p>
+   
+   
   </br>
 
 
