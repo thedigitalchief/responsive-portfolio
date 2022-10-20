@@ -1,14 +1,19 @@
+  <!--  Copyright (©) 2022, thedigitalchief, Dylan Hoang Nguyen, All rights reserved.  --> 
+
 <!DOCTYPE html>
 <html lang="en">
 
   <head>
+  
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-
+   
    <title>Dylan's Website</title>
 
     <!-- CSS stuff -->
+    <link rel="stylesheet" href="lineicons/icon-font/lineicons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -32,26 +37,36 @@
               <div class="tm-brand-box">
                 <div class="tm-double-border-1">
                   <div class="tm-double-border-2">
-                    <div class ="typewriter">
-                    <h1 class="tm-brand typewriter text-uppercase">Dylan Nguyen</h1>
-                    </div>
+                  
+                    <h1 class="tm-brand text-uppercase">Dylan Nguyen</h1>
+     
                   </div>
                 </div>
               </div>
 
               <ul id="tmMainNav" class="nav flex-column text-uppercase text-right tm-main-nav">
+
                 <li class="nav-item">
                   <a href="#home" class="nav-link active">
                     <span class="d-inline-block mr-3">Home</span>
                     <span class="d-inline-block tm-white-rect"></span>
                   </a>
                 </li>
+
                 <li class="nav-item">
                   <a href="#about" class="nav-link">
                     <span class="d-inline-block mr-3">About</span>
                     <span class="d-inline-block tm-white-rect"></span>
                   </a>
                 </li>
+
+                <li class="nav-item">
+                  <a href="#experience" class="nav-link">
+                    <span class="d-inline-block mr-3">Experience</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+
                 <li class="nav-item">
                   <a href="#projects" class="nav-link">
                     <span class="d-inline-block mr-3">Projects</span>
@@ -132,7 +147,7 @@
                       </div>
 
                         <h2 class="tm-section-title mb-2 text tm-color-white">Hi, I'm Dylan!</h2> 
-                         <h6 class="tm-color-white mb-3 text-white">An undergraduate studying Computer Science and Business @ University of California, Riverside.</h6>
+                         <h6 class="tm-color-white mb-3 text-white">An undergrad studying Computer Science and Business @ University of California, Riverside.</h6>
 
                          <br></br>
                        <!-- <p class="tm-color-white text-white small"> Student, Coder, Surfer, Traveler, Dreamer.. </p> --> 
@@ -174,12 +189,14 @@
 
 <!-- ABOUT -->     
           <div class="tm-section-wrap bg-white">
-            <section id="about" class="row tm-section">
+            <section id="about" class="row tm-section ">
 
               <div class="col-l-6">
-                <div class="tm-section-half">    
+                <div class="tm-section-half">   
+
                     <div><i class="fas fa-6x fa-book mb-5 tm-section-icon"></i></div>      
                     <h2 class="tm-section-title tm-color-primary mb-6">ABOUT ME</h2>
+                    <p></p>
                     <p class="mb-6">I am from Orange County, California and am currently an undergraduate student attending University of California, Riverside.
                       I am pursuing a Bachelor of Science in Computer Science and a minor in Business Administration.
                       <p>
@@ -187,7 +204,7 @@
                       I am studying Business as a minor too. I believe my Business studies have provided me with a solid set of soft skills, where 
                       I developed strong communication, leadership, collaboration, and time management skills. I also wanted to minor in Business because
                       I enjoy the more social aspect of the field, such as meeting new peers, collaborating on teams, solving problems creatively, and learning from others.
-                        <p class="mb-6">I
+                        <p class="mb-6">
                       I wanted to focus my studies in these fields because I am positive that the world's reliance on cyber-security, specifically information assurance and cryptography. 
                       Given our increasing adoption of networked, mobile, and cloud-connected environments in both corporate and consumer settings, I believe information and network security will 
                       become even more crucial. With my solid set of intrapersonal, as well as, technical knowledge and skills, I will be providing productive contributions in any environment. 
@@ -200,10 +217,11 @@
                 </div>
               </div>
 
-              <div class="col-l-6">
+              <div class="col-l-6 ">
                 <div class="tm-section-half">
                     <div><i class="fas fa-6x fa-laptop mb-5 tm-section-icon"></i></div>
                     <h2 class="tm-section-title tm-color-primary mb-6">SKILLS</h2>
+                    <p></p>
                     <p class="mb-6">Technical Skills: C/C++, Java, Python, SQL/MySQL, PHP, HTML, CSS, JavaScript, jQuery, Bootstrap, React, Node, Swift/SwiftUI, Git/Github, Selenium, Flutter, PineScript
                     </p>
                     <p class="mb-6">Soft Skills: Communication, Teamwork, Leadership, Problem-solving, Time management, Organizational 
@@ -217,10 +235,123 @@
           </div>
   <!-- end of ABOUT -->
             
-<div></div>
+
+
+<!-- EXPERIENCE TIMELINE start -->
+<div class="tm-section-wrap bg-white">
+  <section id="experience" class="row tm-section">
+
+    <div class="col-12">
+      <div class="tm-section-wrap2">   
+        <h2>PROFESSIONAL EXPERIENCE</h2>
+
+          <div class="timeline"> 
+
+            <div class="timeline__event  animated fadeInUp delay-3s timeline__event--type1">
+
+              <div class="timeline__event__icon ">
+                <i class="lni-cake"></i>
+              </div>
+
+              <div class="timeline__event__date">
+                Farmers & Merchants Bank <br>
+                Security Analyst Intern
+              </div>
+
+              <div class="timeline__event__content ">
+                <div class="timeline__event__title">
+                  03.2022—Present
+                </div>
+
+                <div class="timeline__event__description">
+                  <h6>  
+                    Assisted in development of technical network diagrams of security infrastructure. Minimized disruption to production systems.
+                     Operated vulnerability tools, Identity and Access Management system, Security Event Information Management System.
+                  </h6>
+                </div>
+
+              </div>
+            </div>
+
+
+            <div class="timeline__event animated fadeInUp delay-2s timeline__event--type2">
+              <div class="timeline__event__icon">
+                <i class="lni-burger"></i>
+              </div>
+
+              <div class="timeline__event__date">
+                Postmates, Inc. <br>
+                Service Delivery Driver
+              </div>
+              <div class="timeline__event__content">
+                <div class="timeline__event__title">
+                  06.2019—03.2020
+                </div>
+                <div class="timeline__event__description">
+                  <p>Safely handled and provided punctual delivery services of customer food and products.
+                     Granted Postmates Card for outstanding reviews and reliability.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="timeline__event animated fadeInUp delay-1s timeline__event--type3">
+
+              <div class="timeline__event__icon">
+                <i class="lni-slim"></i>
+              </div>
+
+              <div class="timeline__event__date">
+                Woodly Co. USA™ <br>
+                Company Founder 
+              </div>
+
+              <div class="timeline__event__content">
+                <div class="timeline__event__title">
+                  04.2017—11.2018
+                </div>
+                <div class="timeline__event__description">
+                  <p>Launched profiting, trademarked company that sold premium wood sunglasses
+                    nationwide on Amazon Prime. 
+                    Negotiated with Chinese suppliers and Amazon distributions. 
+                    Developed all branding, designs, financial models, website, listings, and managed customer feedback.
+                  </p>
+                </div>
+
+              </div>
+            </div>
+            <div class="timeline__event animated fadeInUp timeline__event--type1">
+              <div class="timeline__event__icon">
+                <i class="lni-cake"></i>
+
+              </div>
+              <div class="timeline__event__date">
+                Information Technology Tutor <br>
+                Lakeview Senior Center
+              </div>
+              <div class="timeline__event__content">
+                <div class="timeline__event__title">
+                  08.2017—12.2018
+                </div>
+                <div class="timeline__event__description">
+                  <p>Assessed and resolved seniors' technology and media issues.
+                    Provided individualized technology education for seniors.
+                  </p>
+                </div>
+              </div>
+            </div>
+      </div>
+  </div>
+</section>
+</div>
+
+<!-- EXPERIENCE TIMELINE end -->
+
+
+
  <!-- PROJECTS -->     
 
-          <div class="tm-section-wrap bg-white">
+          <div class="tm-section-wrap bg-white ">
             <section id="projects" class="row tm-section">
               <div class="col-12">
                 <div class="w-100 tm-double-border-1 tm-border-gray">
@@ -228,14 +359,26 @@
 
                       <div class="tm-gallery-wrap">
                           <h2 class="tm-color-primary tm-section-title mb-3 ml-2">PROJECTS</h2>
-
                           <div class="tm-gallery">
+
+                          <div class="tm-gallery-item">                        
+                              <figure class="effect-bubba">
+                                <img src="img/gallery/linkedin-networking-bot-demo.gif" alt="LinkedIn Bot" class="img-fluid">
+                                <figcaption>
+                                  <h2>Automated LinkedIn<br><span>Networking Bot</span></h2>
+                                  <!-- <p>Gathers data of LinkedIn connections and their connections, then analyzes each profile's connections, attributes, and similarity to you. 
+                                    It then automatically requests to connect with those who have desirable attributes, connections, and/or similarities.</p> -->
+                                  <a href="img/gallery/linkedinbot.jpg">View more</a>
+                                </figcaption>
+                              </figure>
+                            </div>
+
                             <div class="tm-gallery-item">                        
                               <figure class="effect-bubba">
                                 <img src="img/gallery/tradingbot.jpg" alt="(pinesript image)" class="img-fluid">
                                 <figcaption>
                      
-                                  <h2>Automated Pinescript<br><span>Trading Script </span></h2></h2>
+                                  <h2>Automated PineScript<br><span>Algorithm</span></h2></h2>
                                  
                                   <a href="img/gallery/tradingbot.jpg">View more</a>
                                 </figcaption>
@@ -244,17 +387,54 @@
 
                             <div class="tm-gallery-item">                        
                               <figure class="effect-bubba">
-                                <img src="img/gallery/linkedinbot.jpg" alt="(selnium python code)" class="img-fluid">
+                                <img src="img/gallery/website.jpg" alt="(selnium python code)" class="img-fluid">
                                 <figcaption>
                      
-                                  <h2>Automated Selenium<br><span> LinkedIn Webscraper</span></h2></h2>
+                                  <h2>Responsive <br><span>Personal Website</span></h2></h2>
                                  
-                                  <a href="img/gallery/linkedinbot.jpg">View more</a>
+                                  <a href="img/gallery/expanded/website-gallery.jpg">View more</a>
                                 </figcaption>
                               </figure>
                             </div>
 
                             
+                            <div class="tm-gallery-item">                        
+                              <figure class="effect-bubba">
+                                <img src="img/gallery/gas-bot.jpg" alt="(python)" class="img-fluid">
+                                <figcaption>
+                     
+                                  <h2>Automated Gas <br><span>Price Predictor</span></h2></h2>
+                                 
+                                  <a href="img/gallery/gas-bot.jpg">View more</a>
+                                </figcaption>
+                              </figure>
+                            </div>
+
+
+                           <!--  <div class="tm-gallery-item">                        
+                              <figure class="effect-bubba">
+                                <img src="img/gallery/linkedinbot.jpg" alt="(selnium python code)" class="img-fluid">
+                                <figcaption>
+                     
+                                  <h2>Voice<br><span> Assistant</span></h2></h2>
+                                 
+                                  <a href="img/gallery/linkedinbot.jpg">View more</a>
+                                </figcaption>
+                              </figure>
+                            </div>  -->
+
+                            <div class="tm-gallery-item">
+                              <figure class="effect-bubba">
+                                <img src="img/gallery/woodly.jpeg" alt="(Woodly Sunglass Image)" class="img-fluid">
+                                <figcaption>
+                                  <h2>Woodly<br><span>Co. USA™</span></h2></h2>
+                              
+                                  <a href="img/gallery/expanded/woodly.pdf">View more</a>
+                                </figcaption>
+                              </figure>
+                            </div>
+
+                                                        
 <!-- TO ADD
                       <div class="tm-gallery-item">                        
                         <figure class="effect-bubba">
@@ -280,18 +460,9 @@
                         </figure>
                       </div>
  -->
-                            <div class="tm-gallery-item">
-                              <figure class="effect-bubba">
-                                <img src="img/gallery/woodly.jpeg" alt="(Woodly Sunglass Image)" class="img-fluid">
-                                <figcaption>
-                                  <h2>Woodly<br><span>Co. USA</span></h2></h2>
-                              
-                                  <a href="img/gallery/woodly.jpeg">View more</a>
-                                </figcaption>
-                              </figure>
-                            </div>
-                          </div>
 
+
+                          </div>
                       </div>                        
                     </div>                  
                   </div>     
@@ -305,13 +476,13 @@
 
 <!-- CONTACT -->        
 
- <div class="tm-section-wrap bg-white">
+ <div class="tm-section-wrap bg-white ">
   <section id="contact" class="row tm-section">
 
       <div class="col-xl-6 mb-5">
         <div class="tm-double-border-1 tm-border-gray">
           <div class="tm-double-border-2 tm-border-gray tm-box-pad">
-              <h2 class="tm-color-primary tm-section-title mb-4">LET'S TALK</h2>
+              <h2 class="tm-color-primary tm-section-title mb-4 revealUp">LET'S TALK</h2>
               <p class="mb-4">
                 Feel free to contact me if anything interests you. I am open to talk about anything!
               </p>
