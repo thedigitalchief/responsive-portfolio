@@ -32,7 +32,7 @@
 
  <h1 align="left"> About </h1>
  <div align="left">
- Live website: https://www.dylanhnguyen.com <br>
+ Live website: https://www.dylanhnguyen.com <p></p>
    <p>• Fully responsive, mobile adapted portofolio website developed by me </p>
    <p>• Beautiful fluid single page design with animations and scroll reveal </p>
    <p>• User focused UI/UX design elements </p>
