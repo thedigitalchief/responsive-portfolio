@@ -14,9 +14,8 @@
    <a href="https://www.facebook.com/dylannguyenn" title="Facebook Account">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
-
-# Tech Stack
-<p float="left">
+ <h1 align="left"> Tech Stack </h1>
+<div align="left">
 
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +27,7 @@
  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
  <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/> 
 <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</p>
+</div>
 
  <h1 align="left"> About </h1>
  <div align="left">
