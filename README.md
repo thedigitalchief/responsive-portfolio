@@ -1,4 +1,4 @@
-# Dylan Nguyen's Website - a beauitfully modern but fully responsive website portfolio
+# Portolio Website - Beautiful and modern responsive portfolio page 
 <div id="header" align="center">
    <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/><br>
  <div id="header" align="center">
@@ -11,7 +11,6 @@
   <a href="https://dev.to/digitalchief" title="Dev.to Account">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" />
 </a>
-   
    <a href="https://www.facebook.com/dylannguyenn" title="Facebook Account">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
@@ -32,15 +31,14 @@
 </p>
 
  <h1 align="left"> About </h1>
-   <p>• My personal portofolio website developed soley by me from the ground up </p>
-   <p>• Features a beautiful responsive and fluid single page design </p>
+ <div align="left">
+ Live website: https://www.dylanhnguyen.com <br>
+   <p>• Fully responsive, mobile adapted portofolio website developed by me </p>
+   <p>• Beautiful fluid single page design with animations and scroll reveal </p>
    <p>• User focused UI/UX design elements </p>
    <p>• Fully adaptive to all different environment, but excels specifically on mobile platforms </p>
    <p>• TSL/SSL certified encryption security </p
-   <p>• HTTP reuqests and CDN minimization for quicker load times </p>
-   
-   
-  </br>
-
+   <p>• HTTPS + CDN minimization for quick loading </p>
+</div>
 
           
